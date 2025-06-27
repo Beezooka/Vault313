@@ -1,0 +1,1 @@
+// Post.js placeholder content

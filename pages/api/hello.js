@@ -1,0 +1,1 @@
+// api/hello.js placeholder content
